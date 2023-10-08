@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Maciek/Desktop/wsb 4 sem/c++/FINAL mój projekt za 20 pkt/final_version_projektC++/maciej_strach_tok",
-      "program": "c:/Users/Maciek/Desktop/wsb 4 sem/c++/FINAL mój projekt za 20 pkt/final_version_projektC++/maciej_strach_tok/build/Debug/outDebug",
+      "cwd": "c:/projects/C++/library project c++",
+      "program": "c:/projects/C++/library project c++/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
